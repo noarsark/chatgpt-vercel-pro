@@ -107,7 +107,6 @@ export default function SettingAction(props: {
           icon="i-carbon:settings"
           label="设置"
         />
-        <span ml-1>设置/输入key</span>
         <div class="flex">
           <ActionItem
             onClick={exportJpg}
