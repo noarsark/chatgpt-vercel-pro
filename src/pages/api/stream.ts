@@ -25,7 +25,7 @@ export const post: APIRoute = async context => {
 
   if (!key.startsWith("sk-")) key = apiKey
   if (!key) {
-    return new Response("没有填写 OpenAI API key")
+    return new Response("没有填写 OpenAI API key，请关注公众号[noarsark](https://imagecdn.noarsark.cn/blog/202302152115832.png)，回复【chatgpt】获取")
   }
   if (!messages) {
     return new Response("没有输入任何文字")
