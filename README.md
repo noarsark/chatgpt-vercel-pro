@@ -3,19 +3,17 @@
 ![](assets/preview-light.png#gh-light-mode-only)
 ![](assets/preview-dark.png#gh-dark-mode-only)
 
-> 本项目基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发。
+> 本项目基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)、[chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 开发。
 
 预览:
-1. [aitoolgpt.com](https://www.aitoolgpt.com)，由 [@AUDI_GUZZ](https://m.okjike.com/users/4af3cfb4-1291-4a8b-b210-f515c86934a9) 免费提供。
-2. [chatsverse.xyz](https://www.chatsverse.xyz)，由 [@Airyland](https://m.okjike.com/users/C6C8DE3A-E89D-4978-9E7D-B2E167D835A9) 免费提供。
+[chatwithgpt.click](https://www.chatwitchgpt.click)
 
-API Key 由 [@AUDI_GUZZ](https://m.okjike.com/users/4af3cfb4-1291-4a8b-b210-f515c86934a9) 和 [@ourongxing](https://github.com/ourongxing) 免费提供。
 
 ## 部署一个你自己的（免费）
 
 如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作即可。 vercel 域名已经被墙，但 vercel 本身没有被墙，所以你绑定自己的域名就可以了。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ourongxing/chatgpt-vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/noarsark/chatgpt-vercel-pro)
 
 如果你需要部署给更多人用，那么你可能需要将上面创建的你自己的仓库 `git clone` 到本地。
 
@@ -91,10 +89,14 @@ await fetch("/api", {
 })
 ```
 
-## 赞赏
-如果本项目对你有所帮助，可以给小猫买点零食，但不接受任何付费功能请求。
+## ChatGPT交流
+如果遇到使用问题或者想交流 ChatGPT，获取ChatGPT使用方法，最新资讯，商业价值等，可以关注公众号“noarsark”，发送 “chatgpt” 进群参与讨论。
 
-![](./assets/reward.gif)
+<img width="180" src="https://imagecdn.noarsark.cn/blog/202303212257117.jpg"><img width="200" src="https://imagecdn.noarsark.cn/blog/202303212257123.jpg">
+
+<img width="180" src="https://imagecdn.noarsark.cn/blog/202303212257123.jpg">
+
+<a href="https://t.zsxq.com/0cnbujGDX"><img width="360" src="https://imagecdn.noarsark.cn/blog/202303212257362.jpg"></a>
 ## License
 
 [MIT](./LICENSE)
