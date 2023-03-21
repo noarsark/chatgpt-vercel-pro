@@ -6,7 +6,7 @@
 > 本项目基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)、[chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 开发。
 
 预览:
-[chatwithgpt.click](https://www.chatwitchgpt.click)
+[chatwithgpt.click](https://www.chatwithgpt.click)
 
 
 ## 部署一个你自己的（免费）
