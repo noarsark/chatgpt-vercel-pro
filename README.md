@@ -94,8 +94,6 @@ await fetch("/api", {
 
 <img width="180" src="https://imagecdn.noarsark.cn/blog/202303212257117.jpg"><img width="200" src="https://imagecdn.noarsark.cn/blog/202303212257578.jpg">
 
-<img width="180" src="https://imagecdn.noarsark.cn/blog/202303212257123.jpg">
-
 <a href="https://t.zsxq.com/0cnbujGDX"><img width="360" src="https://imagecdn.noarsark.cn/blog/202303212257362.jpg"></a>
 ## License
 
