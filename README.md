@@ -1,4 +1,4 @@
-# ChatGPT-Vercel
+# ChatGPT-Vercel-Pro
 
 ![](assets/preview-light.png#gh-light-mode-only)
 ![](assets/preview-dark.png#gh-dark-mode-only)
@@ -90,11 +90,12 @@ await fetch("/api", {
 ```
 
 ## ChatGPT交流
-如果遇到使用问题或者想交流 ChatGPT，获取ChatGPT使用方法，最新资讯，商业价值等，可以关注公众号“noarsark”，发送 “chatgpt” 进群参与讨论。
+如果遇到使用问题或者想交流 ChatGPT，获取ChatGPT使用方法，最新资讯，商业价值等，可以关注公众号「noarsark」，发送「chatgpt」 进群参与讨论。
 
-<img width="180" src="https://imagecdn.noarsark.cn/blog/202303212257117.jpg"><img width="200" height="200" src="https://imagecdn.noarsark.cn/blog/202303212341939.jpg">
+![](assets/preview-light.png#gh-light-mode-only)
+<img width="180" src="assets/gzh_noarsark.jpg"><img width="200" height="200" src="assets/chatgpt_group.jpg">
 
-<a href="https://t.zsxq.com/0cnbujGDX"><img width="360" src="https://imagecdn.noarsark.cn/blog/202303212257362.jpg"></a>
+<a href="https://t.zsxq.com/0cnbujGDX"><img width="360" src="assets/zsxq_noarsark"></a>
 ## License
 
 [MIT](./LICENSE)
