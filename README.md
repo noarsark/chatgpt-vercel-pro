@@ -93,9 +93,9 @@ await fetch("/api", {
 如果遇到使用问题或者想交流 ChatGPT，获取ChatGPT使用方法，最新资讯，商业价值等，可以关注公众号「noarsark」，发送「chatgpt」 进群参与讨论。
 
 ![](assets/preview-light.png#gh-light-mode-only)
-<img width="180" src="assets/gzh_noarsark.jpg"><img width="200" height="200" src="assets/chatgpt_group.jpg">
+<img width="180" src="assets/gzh_noarsark.jpg"><img width="180" height="200" src="assets/chatgpt_group.jpg">
 
-<a href="https://t.zsxq.com/0cnbujGDX"><img width="360" src="assets/zsxq_noarsark"></a>
+<a href="https://t.zsxq.com/0cnbujGDX"><img width="360" src="assets/zsxq_noarsark.jpg"></a>
 ## License
 
 [MIT](./LICENSE)
