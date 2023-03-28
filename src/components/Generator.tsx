@@ -53,7 +53,7 @@ export default function (props: { prompts: PromptItem[] }) {
         archiveSession = parsed.archiveSession
         setSetting({
           ...defaultSetting,
-          ...parsed
+          ...parsed,
           continuousDialogue: false
         })
       }
