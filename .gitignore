@@ -1,0 +1,6 @@
+node_modules/
+.env
+yarn-error.log
+.idea/
+.vercel
+.DS_Store
