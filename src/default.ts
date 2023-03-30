@@ -9,6 +9,6 @@ export const defaultSetting = {
 export const defaultMessage = `
 - 由 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat) 提供支持。
 - 关注公众号[noarsark](https://imagecdn.noarsark.cn/blog/202302152115832.png)，回复【chatgpt】获取体验key。
-- 如报错可以联系微信[noarsark18](https://imagecdn.noarsark.cn/blog/chatAI.jpg)购买独享账号或plus账号。
-- 欢迎加入[ChatGPT交流群](https://imagecdn.noarsark.cn/blog/202303252114707.jpg)，一起探索ChatGPT以及AI绘画最新玩法。
+- 如需购买独享账号或plus账号可以联系微信[noarsark18](https://imagecdn.noarsark.cn/blog/202303302148247.jpg)。
+- 欢迎加入[ChatGPT交流群](https://imagecdn.noarsark.cn/blog/202303302137596.jpg)，一起探索ChatGPT以及AI绘画最新玩法。
 - <kbd>Shift</kbd> + <kbd>Enter</kbd> 换行。开头输入 <kbd>/</kbd> 或者 <kbd>空格</kbd> 搜索 Prompt 预设。点击输入框滚动到底部。`
