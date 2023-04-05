@@ -8,6 +8,7 @@ export const defaultSetting = {
 
 export const defaultMessage = `
 - 由 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat) 提供支持，本网站无需科学上网，任意环境均可使用。
+- [ChatGPT Pro会员站](https://chatgpt5.one)，使用更加方便快捷。
 - 关注公众号[noarsark](https://imagecdn.noarsark.cn/blog/202302152115832.png)，回复【chatgpt】获取体验key。
 - [ChatGPT交流圈](https://t.zsxq.com/0c4hMbm3Z)
 - [ChatGPT交流群](https://imagecdn.noarsark.cn/blog/202304020928848.jpg)，一起探索ChatGPT以及AI绘画最新玩法。
